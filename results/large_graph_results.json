@@ -1,0 +1,151 @@
+{
+  "mst_after": [
+    {
+      "src": 7,
+      "dest": 22,
+      "weight": 1.06
+    },
+    {
+      "src": 27,
+      "dest": 8,
+      "weight": 1.26
+    },
+    {
+      "src": 5,
+      "dest": 9,
+      "weight": 1.39
+    },
+    {
+      "src": 26,
+      "dest": 12,
+      "weight": 1.98
+    },
+    {
+      "src": 10,
+      "dest": 9,
+      "weight": 2.13
+    },
+    {
+      "src": 20,
+      "dest": 24,
+      "weight": 2.21
+    },
+    {
+      "src": 15,
+      "dest": 23,
+      "weight": 2.26
+    },
+    {
+      "src": 8,
+      "dest": 0,
+      "weight": 2.75
+    },
+    {
+      "src": 13,
+      "dest": 7,
+      "weight": 3.14
+    },
+    {
+      "src": 21,
+      "dest": 9,
+      "weight": 3.35
+    },
+    {
+      "src": 12,
+      "dest": 13,
+      "weight": 3.38
+    },
+    {
+      "src": 14,
+      "dest": 5,
+      "weight": 4.29
+    },
+    {
+      "src": 25,
+      "dest": 24,
+      "weight": 4.94
+    },
+    {
+      "src": 11,
+      "dest": 1,
+      "weight": 5.02
+    },
+    {
+      "src": 15,
+      "dest": 14,
+      "weight": 5.03
+    },
+    {
+      "src": 8,
+      "dest": 20,
+      "weight": 5.17
+    },
+    {
+      "src": 20,
+      "dest": 5,
+      "weight": 5.63
+    },
+    {
+      "src": 10,
+      "dest": 19,
+      "weight": 6.05
+    },
+    {
+      "src": 4,
+      "dest": 13,
+      "weight": 6.58
+    },
+    {
+      "src": 28,
+      "dest": 5,
+      "weight": 6.66
+    },
+    {
+      "src": 3,
+      "dest": 5,
+      "weight": 7.25
+    },
+    {
+      "src": 4,
+      "dest": 8,
+      "weight": 7.91
+    },
+    {
+      "src": 8,
+      "dest": 6,
+      "weight": 9.21
+    },
+    {
+      "src": 9,
+      "dest": 16,
+      "weight": 9.33
+    },
+    {
+      "src": 10,
+      "dest": 18,
+      "weight": 11.91
+    },
+    {
+      "src": 1,
+      "dest": 22,
+      "weight": 12.43
+    },
+    {
+      "src": 13,
+      "dest": 29,
+      "weight": 17.33
+    },
+    {
+      "src": 24,
+      "dest": 17,
+      "weight": 18.8
+    },
+    {
+      "src": 2,
+      "dest": 4,
+      "weight": 6.8
+    }
+  ],
+  "removed_edge": "(2-4, 6,80)",
+  "replacement_edge": "(2-4, 6,80)"
+}

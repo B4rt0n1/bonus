@@ -1,0 +1,1005 @@
+{
+  "vertices": 100,
+  "edges": [
+    {
+      "src": 34,
+      "dest": 98,
+      "weight": 11.51
+    },
+    {
+      "src": 22,
+      "dest": 85,
+      "weight": 3.18
+    },
+    {
+      "src": 31,
+      "dest": 10,
+      "weight": 11.37
+    },
+    {
+      "src": 82,
+      "dest": 56,
+      "weight": 9.94
+    },
+    {
+      "src": 77,
+      "dest": 69,
+      "weight": 13.51
+    },
+    {
+      "src": 37,
+      "dest": 48,
+      "weight": 19.27
+    },
+    {
+      "src": 82,
+      "dest": 75,
+      "weight": 9.25
+    },
+    {
+      "src": 15,
+      "dest": 65,
+      "weight": 19.57
+    },
+    {
+      "src": 7,
+      "dest": 72,
+      "weight": 16.47
+    },
+    {
+      "src": 56,
+      "dest": 41,
+      "weight": 13.94
+    },
+    {
+      "src": 59,
+      "dest": 66,
+      "weight": 5.91
+    },
+    {
+      "src": 64,
+      "dest": 52,
+      "weight": 3.53
+    },
+    {
+      "src": 31,
+      "dest": 83,
+      "weight": 15.96
+    },
+    {
+      "src": 49,
+      "dest": 37,
+      "weight": 17.54
+    },
+    {
+      "src": 65,
+      "dest": 45,
+      "weight": 4.65
+    },
+    {
+      "src": 18,
+      "dest": 51,
+      "weight": 5.21
+    },
+    {
+      "src": 89,
+      "dest": 12,
+      "weight": 14.65
+    },
+    {
+      "src": 51,
+      "dest": 48,
+      "weight": 11.22
+    },
+    {
+      "src": 95,
+      "dest": 90,
+      "weight": 14.95
+    },
+    {
+      "src": 98,
+      "dest": 82,
+      "weight": 10.46
+    },
+    {
+      "src": 32,
+      "dest": 77,
+      "weight": 7.61
+    },
+    {
+      "src": 36,
+      "dest": 63,
+      "weight": 10.94
+    },
+    {
+      "src": 91,
+      "dest": 63,
+      "weight": 11.54
+    },
+    {
+      "src": 2,
+      "dest": 14,
+      "weight": 14.22
+    },
+    {
+      "src": 88,
+      "dest": 75,
+      "weight": 18.01
+    },
+    {
+      "src": 37,
+      "dest": 76,
+      "weight": 13.58
+    },
+    {
+      "src": 74,
+      "dest": 24,
+      "weight": 8.72
+    },
+    {
+      "src": 22,
+      "dest": 48,
+      "weight": 18.33
+    },
+    {
+      "src": 95,
+      "dest": 78,
+      "weight": 8.4
+    },
+    {
+      "src": 29,
+      "dest": 33,
+      "weight": 6.26
+    },
+    {
+      "src": 60,
+      "dest": 71,
+      "weight": 8.71
+    },
+    {
+      "src": 56,
+      "dest": 66,
+      "weight": 8.47
+    },
+    {
+      "src": 15,
+      "dest": 86,
+      "weight": 18.39
+    },
+    {
+      "src": 58,
+      "dest": 93,
+      "weight": 7.37
+    },
+    {
+      "src": 53,
+      "dest": 22,
+      "weight": 18.56
+    },
+    {
+      "src": 18,
+      "dest": 43,
+      "weight": 16.42
+    },
+    {
+      "src": 10,
+      "dest": 93,
+      "weight": 13.03
+    },
+    {
+      "src": 10,
+      "dest": 28,
+      "weight": 13.89
+    },
+    {
+      "src": 74,
+      "dest": 90,
+      "weight": 10.39
+    },
+    {
+      "src": 1,
+      "dest": 4,
+      "weight": 7.92
+    },
+    {
+      "src": 84,
+      "dest": 96,
+      "weight": 16.18
+    },
+    {
+      "src": 83,
+      "dest": 87,
+      "weight": 2.01
+    },
+    {
+      "src": 58,
+      "dest": 73,
+      "weight": 18.41
+    },
+    {
+      "src": 32,
+      "dest": 50,
+      "weight": 9.64
+    },
+    {
+      "src": 76,
+      "dest": 82,
+      "weight": 8.46
+    },
+    {
+      "src": 54,
+      "dest": 69,
+      "weight": 2.94
+    },
+    {
+      "src": 73,
+      "dest": 98,
+      "weight": 9.79
+    },
+    {
+      "src": 2,
+      "dest": 70,
+      "weight": 2.45
+    },
+    {
+      "src": 44,
+      "dest": 68,
+      "weight": 6.06
+    },
+    {
+      "src": 53,
+      "dest": 83,
+      "weight": 4.77
+    },
+    {
+      "src": 0,
+      "dest": 95,
+      "weight": 10.37
+    },
+    {
+      "src": 19,
+      "dest": 50,
+      "weight": 18.71
+    },
+    {
+      "src": 16,
+      "dest": 29,
+      "weight": 8.86
+    },
+    {
+      "src": 41,
+      "dest": 11,
+      "weight": 10.36
+    },
+    {
+      "src": 83,
+      "dest": 11,
+      "weight": 2.3
+    },
+    {
+      "src": 8,
+      "dest": 39,
+      "weight": 6.81
+    },
+    {
+      "src": 1,
+      "dest": 58,
+      "weight": 2.5
+    },
+    {
+      "src": 86,
+      "dest": 91,
+      "weight": 15.97
+    },
+    {
+      "src": 91,
+      "dest": 92,
+      "weight": 4.92
+    },
+    {
+      "src": 85,
+      "dest": 2,
+      "weight": 4.74
+    },
+    {
+      "src": 18,
+      "dest": 53,
+      "weight": 7.31
+    },
+    {
+      "src": 22,
+      "dest": 36,
+      "weight": 16.27
+    },
+    {
+      "src": 99,
+      "dest": 32,
+      "weight": 18.04
+    },
+    {
+      "src": 81,
+      "dest": 20,
+      "weight": 17.31
+    },
+    {
+      "src": 74,
+      "dest": 4,
+      "weight": 15.87
+    },
+    {
+      "src": 59,
+      "dest": 10,
+      "weight": 11.24
+    },
+    {
+      "src": 38,
+      "dest": 27,
+      "weight": 5.46
+    },
+    {
+      "src": 96,
+      "dest": 73,
+      "weight": 17.67
+    },
+    {
+      "src": 14,
+      "dest": 1,
+      "weight": 12.94
+    },
+    {
+      "src": 55,
+      "dest": 53,
+      "weight": 10.02
+    },
+    {
+      "src": 28,
+      "dest": 6,
+      "weight": 8.93
+    },
+    {
+      "src": 25,
+      "dest": 11,
+      "weight": 17.44
+    },
+    {
+      "src": 35,
+      "dest": 42,
+      "weight": 4.73
+    },
+    {
+      "src": 26,
+      "dest": 84,
+      "weight": 17.23
+    },
+    {
+      "src": 46,
+      "dest": 16,
+      "weight": 13.75
+    },
+    {
+      "src": 83,
+      "dest": 76,
+      "weight": 15.3
+    },
+    {
+      "src": 62,
+      "dest": 92,
+      "weight": 7.87
+    },
+    {
+      "src": 98,
+      "dest": 29,
+      "weight": 7.64
+    },
+    {
+      "src": 96,
+      "dest": 20,
+      "weight": 2.93
+    },
+    {
+      "src": 25,
+      "dest": 73,
+      "weight": 8.99
+    },
+    {
+      "src": 14,
+      "dest": 22,
+      "weight": 1.33
+    },
+    {
+      "src": 40,
+      "dest": 31,
+      "weight": 9.18
+    },
+    {
+      "src": 81,
+      "dest": 83,
+      "weight": 4.03
+    },
+    {
+      "src": 33,
+      "dest": 83,
+      "weight": 3.36
+    },
+    {
+      "src": 83,
+      "dest": 7,
+      "weight": 19.56
+    },
+    {
+      "src": 46,
+      "dest": 53,
+      "weight": 18.96
+    },
+    {
+      "src": 58,
+      "dest": 23,
+      "weight": 4.72
+    },
+    {
+      "src": 47,
+      "dest": 62,
+      "weight": 17.78
+    },
+    {
+      "src": 38,
+      "dest": 19,
+      "weight": 1.36
+    },
+    {
+      "src": 78,
+      "dest": 6,
+      "weight": 3.3
+    },
+    {
+      "src": 12,
+      "dest": 22,
+      "weight": 16.24
+    },
+    {
+      "src": 47,
+      "dest": 18,
+      "weight": 14.45
+    },
+    {
+      "src": 41,
+      "dest": 89,
+      "weight": 15.0
+    },
+    {
+      "src": 13,
+      "dest": 76,
+      "weight": 17.21
+    },
+    {
+      "src": 62,
+      "dest": 35,
+      "weight": 6.18
+    },
+    {
+      "src": 65,
+      "dest": 94,
+      "weight": 17.65
+    },
+    {
+      "src": 6,
+      "dest": 59,
+      "weight": 6.83
+    },
+    {
+      "src": 73,
+      "dest": 4,
+      "weight": 8.3
+    },
+    {
+      "src": 56,
+      "dest": 7,
+      "weight": 17.27
+    },
+    {
+      "src": 40,
+      "dest": 49,
+      "weight": 4.7
+    },
+    {
+      "src": 61,
+      "dest": 89,
+      "weight": 1.37
+    },
+    {
+      "src": 11,
+      "dest": 52,
+      "weight": 12.19
+    },
+    {
+      "src": 12,
+      "dest": 78,
+      "weight": 19.52
+    },
+    {
+      "src": 86,
+      "dest": 74,
+      "weight": 6.1
+    },
+    {
+      "src": 55,
+      "dest": 43,
+      "weight": 12.17
+    },
+    {
+      "src": 69,
+      "dest": 85,
+      "weight": 13.64
+    },
+    {
+      "src": 26,
+      "dest": 57,
+      "weight": 2.15
+    },
+    {
+      "src": 78,
+      "dest": 4,
+      "weight": 1.58
+    },
+    {
+      "src": 32,
+      "dest": 34,
+      "weight": 16.22
+    },
+    {
+      "src": 49,
+      "dest": 36,
+      "weight": 2.59
+    },
+    {
+      "src": 69,
+      "dest": 46,
+      "weight": 14.89
+    },
+    {
+      "src": 53,
+      "dest": 80,
+      "weight": 16.37
+    },
+    {
+      "src": 15,
+      "dest": 91,
+      "weight": 8.06
+    },
+    {
+      "src": 0,
+      "dest": 38,
+      "weight": 6.83
+    },
+    {
+      "src": 61,
+      "dest": 30,
+      "weight": 15.03
+    },
+    {
+      "src": 99,
+      "dest": 36,
+      "weight": 11.97
+    },
+    {
+      "src": 99,
+      "dest": 2,
+      "weight": 12.67
+    },
+    {
+      "src": 66,
+      "dest": 79,
+      "weight": 17.93
+    },
+    {
+      "src": 12,
+      "dest": 79,
+      "weight": 13.56
+    },
+    {
+      "src": 34,
+      "dest": 3,
+      "weight": 17.08
+    },
+    {
+      "src": 80,
+      "dest": 65,
+      "weight": 4.47
+    },
+    {
+      "src": 80,
+      "dest": 45,
+      "weight": 9.35
+    },
+    {
+      "src": 24,
+      "dest": 97,
+      "weight": 2.8
+    },
+    {
+      "src": 8,
+      "dest": 2,
+      "weight": 3.87
+    },
+    {
+      "src": 76,
+      "dest": 77,
+      "weight": 7.44
+    },
+    {
+      "src": 55,
+      "dest": 6,
+      "weight": 16.55
+    },
+    {
+      "src": 97,
+      "dest": 50,
+      "weight": 19.44
+    },
+    {
+      "src": 29,
+      "dest": 10,
+      "weight": 7.85
+    },
+    {
+      "src": 47,
+      "dest": 67,
+      "weight": 3.97
+    },
+    {
+      "src": 54,
+      "dest": 14,
+      "weight": 11.94
+    },
+    {
+      "src": 5,
+      "dest": 40,
+      "weight": 19.31
+    },
+    {
+      "src": 87,
+      "dest": 54,
+      "weight": 5.15
+    },
+    {
+      "src": 30,
+      "dest": 40,
+      "weight": 3.83
+    },
+    {
+      "src": 99,
+      "dest": 21,
+      "weight": 8.46
+    },
+    {
+      "src": 64,
+      "dest": 11,
+      "weight": 15.64
+    },
+    {
+      "src": 85,
+      "dest": 52,
+      "weight": 14.84
+    },
+    {
+      "src": 41,
+      "dest": 83,
+      "weight": 15.01
+    },
+    {
+      "src": 61,
+      "dest": 1,
+      "weight": 3.96
+    },
+    {
+      "src": 74,
+      "dest": 51,
+      "weight": 5.61
+    },
+    {
+      "src": 96,
+      "dest": 18,
+      "weight": 5.34
+    },
+    {
+      "src": 31,
+      "dest": 11,
+      "weight": 6.07
+    },
+    {
+      "src": 37,
+      "dest": 24,
+      "weight": 3.7
+    },
+    {
+      "src": 73,
+      "dest": 61,
+      "weight": 5.14
+    },
+    {
+      "src": 71,
+      "dest": 74,
+      "weight": 8.19
+    },
+    {
+      "src": 32,
+      "dest": 63,
+      "weight": 16.31
+    },
+    {
+      "src": 26,
+      "dest": 62,
+      "weight": 1.08
+    },
+    {
+      "src": 70,
+      "dest": 26,
+      "weight": 15.48
+    },
+    {
+      "src": 17,
+      "dest": 58,
+      "weight": 4.31
+    },
+    {
+      "src": 53,
+      "dest": 75,
+      "weight": 19.22
+    },
+    {
+      "src": 34,
+      "dest": 83,
+      "weight": 1.89
+    },
+    {
+      "src": 97,
+      "dest": 8,
+      "weight": 5.29
+    },
+    {
+      "src": 25,
+      "dest": 61,
+      "weight": 6.85
+    },
+    {
+      "src": 40,
+      "dest": 55,
+      "weight": 10.62
+    },
+    {
+      "src": 82,
+      "dest": 73,
+      "weight": 9.73
+    },
+    {
+      "src": 47,
+      "dest": 11,
+      "weight": 17.85
+    },
+    {
+      "src": 74,
+      "dest": 40,
+      "weight": 11.62
+    },
+    {
+      "src": 74,
+      "dest": 64,
+      "weight": 3.55
+    },
+    {
+      "src": 68,
+      "dest": 33,
+      "weight": 14.06
+    },
+    {
+      "src": 51,
+      "dest": 87,
+      "weight": 11.92
+    },
+    {
+      "src": 84,
+      "dest": 0,
+      "weight": 19.94
+    },
+    {
+      "src": 43,
+      "dest": 57,
+      "weight": 19.92
+    },
+    {
+      "src": 87,
+      "dest": 53,
+      "weight": 8.45
+    },
+    {
+      "src": 22,
+      "dest": 37,
+      "weight": 17.14
+    },
+    {
+      "src": 21,
+      "dest": 7,
+      "weight": 15.83
+    },
+    {
+      "src": 65,
+      "dest": 67,
+      "weight": 12.59
+    },
+    {
+      "src": 68,
+      "dest": 55,
+      "weight": 16.62
+    },
+    {
+      "src": 17,
+      "dest": 84,
+      "weight": 14.06
+    },
+    {
+      "src": 21,
+      "dest": 97,
+      "weight": 3.3
+    },
+    {
+      "src": 99,
+      "dest": 76,
+      "weight": 16.08
+    },
+    {
+      "src": 77,
+      "dest": 92,
+      "weight": 5.75
+    },
+    {
+      "src": 2,
+      "dest": 35,
+      "weight": 2.32
+    },
+    {
+      "src": 12,
+      "dest": 55,
+      "weight": 16.98
+    },
+    {
+      "src": 56,
+      "dest": 98,
+      "weight": 17.66
+    },
+    {
+      "src": 0,
+      "dest": 39,
+      "weight": 4.25
+    },
+    {
+      "src": 73,
+      "dest": 64,
+      "weight": 3.79
+    },
+    {
+      "src": 29,
+      "dest": 12,
+      "weight": 16.33
+    },
+    {
+      "src": 65,
+      "dest": 73,
+      "weight": 8.5
+    },
+    {
+      "src": 34,
+      "dest": 53,
+      "weight": 1.64
+    },
+    {
+      "src": 55,
+      "dest": 90,
+      "weight": 8.7
+    },
+    {
+      "src": 93,
+      "dest": 53,
+      "weight": 9.63
+    },
+    {
+      "src": 27,
+      "dest": 68,
+      "weight": 4.3
+    },
+    {
+      "src": 23,
+      "dest": 4,
+      "weight": 3.33
+    },
+    {
+      "src": 0,
+      "dest": 72,
+      "weight": 1.74
+    },
+    {
+      "src": 58,
+      "dest": 72,
+      "weight": 5.01
+    },
+    {
+      "src": 90,
+      "dest": 15,
+      "weight": 5.6
+    },
+    {
+      "src": 56,
+      "dest": 83,
+      "weight": 10.48
+    },
+    {
+      "src": 43,
+      "dest": 46,
+      "weight": 17.25
+    },
+    {
+      "src": 82,
+      "dest": 80,
+      "weight": 4.98
+    },
+    {
+      "src": 77,
+      "dest": 47,
+      "weight": 13.01
+    },
+    {
+      "src": 35,
+      "dest": 15,
+      "weight": 6.19
+    },
+    {
+      "src": 37,
+      "dest": 75,
+      "weight": 13.56
+    },
+    {
+      "src": 0,
+      "dest": 62,
+      "weight": 15.07
+    },
+    {
+      "src": 84,
+      "dest": 71,
+      "weight": 14.56
+    },
+    {
+      "src": 11,
+      "dest": 10,
+      "weight": 13.6
+    },
+    {
+      "src": 49,
+      "dest": 7,
+      "weight": 18.51
+    },
+    {
+      "src": 91,
+      "dest": 20,
+      "weight": 14.09
+    },
+    {
+      "src": 95,
+      "dest": 13,
+      "weight": 16.73
+    },
+    {
+      "src": 55,
+      "dest": 4,
+      "weight": 14.24
+    },
+    {
+      "src": 52,
+      "dest": 91,
+      "weight": 18.33
+    },
+    {
+      "src": 14,
+      "dest": 13,
+      "weight": 11.38
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "vertices": 5,
+  "edges": [
+    {
+      "src": 4,
+      "dest": 1,
+      "weight": 19.48
+    },
+    {
+      "src": 2,
+      "dest": 4,
+      "weight": 11.49
+    },
+    {
+      "src": 3,
+      "dest": 1,
+      "weight": 7.31
+    },
+    {
+      "src": 1,
+      "dest": 2,
+      "weight": 17.43
+    },
+    {
+      "src": 0,
+      "dest": 4,
+      "weight": 3.53
+    },
+    {
+      "src": 4,
+      "dest": 3,
+      "weight": 18.74
+    }
+  ]
+}

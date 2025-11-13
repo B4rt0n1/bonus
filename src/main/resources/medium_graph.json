@@ -1,0 +1,80 @@
+{
+  "vertices": 10,
+  "edges": [
+    {
+      "src": 5,
+      "dest": 9,
+      "weight": 2.76
+    },
+    {
+      "src": 4,
+      "dest": 3,
+      "weight": 5.62
+    },
+    {
+      "src": 3,
+      "dest": 1,
+      "weight": 1.56
+    },
+    {
+      "src": 6,
+      "dest": 2,
+      "weight": 9.91
+    },
+    {
+      "src": 6,
+      "dest": 5,
+      "weight": 12.39
+    },
+    {
+      "src": 1,
+      "dest": 5,
+      "weight": 18.2
+    },
+    {
+      "src": 3,
+      "dest": 6,
+      "weight": 15.09
+    },
+    {
+      "src": 9,
+      "dest": 7,
+      "weight": 13.25
+    },
+    {
+      "src": 7,
+      "dest": 0,
+      "weight": 12.37
+    },
+    {
+      "src": 7,
+      "dest": 3,
+      "weight": 6.33
+    },
+    {
+      "src": 6,
+      "dest": 7,
+      "weight": 17.24
+    },
+    {
+      "src": 6,
+      "dest": 9,
+      "weight": 18.4
+    },
+    {
+      "src": 7,
+      "dest": 4,
+      "weight": 7.06
+    },
+    {
+      "src": 3,
+      "dest": 2,
+      "weight": 13.48
+    },
+    {
+      "src": 1,
+      "dest": 4,
+      "weight": 1.63
+    }
+  ]
+}

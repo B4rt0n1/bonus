@@ -1,0 +1,26 @@
+{
+  "mst_after": [
+    {
+      "src": 0,
+      "dest": 4,
+      "weight": 3.53
+    },
+    {
+      "src": 3,
+      "dest": 1,
+      "weight": 7.31
+    },
+    {
+      "src": 1,
+      "dest": 2,
+      "weight": 17.43
+    },
+    {
+      "src": 2,
+      "dest": 4,
+      "weight": 11.49
+    }
+  ],
+  "removed_edge": "(2-4, 11,49)",
+  "replacement_edge": "(2-4, 11,49)"
+}

@@ -1,0 +1,46 @@
+{
+  "mst_after": [
+    {
+      "src": 1,
+      "dest": 4,
+      "weight": 1.63
+    },
+    {
+      "src": 5,
+      "dest": 9,
+      "weight": 2.76
+    },
+    {
+      "src": 7,
+      "dest": 3,
+      "weight": 6.33
+    },
+    {
+      "src": 6,
+      "dest": 2,
+      "weight": 9.91
+    },
+    {
+      "src": 7,
+      "dest": 0,
+      "weight": 12.37
+    },
+    {
+      "src": 6,
+      "dest": 5,
+      "weight": 12.39
+    },
+    {
+      "src": 9,
+      "dest": 7,
+      "weight": 13.25
+    },
+    {
+      "src": 3,
+      "dest": 1,
+      "weight": 1.56
+    }
+  ],
+  "removed_edge": "(3-1, 1,56)",
+  "replacement_edge": "(3-1, 1,56)"
+}
